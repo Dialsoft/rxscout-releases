@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "date": "2026-11-07",
+  "notes": "## 1.0.0 - November 7, 2026\n- First release for Windows and Android.\n- Main Zone, Zone 2, Sources, Sound, Speakers, System, Explorer, Hidden and Log tabs.\n- 20 undocumented RX-V677 settings (speaker levels/distances, input trims, display dimmer, max/power-on volume, HDMI CEC, ECO...) with read-back verification.\n- Hidden-command scanner, backup/restore with diff, snapshot export, traffic log, auto-update.",
+  "windows": {
+    "url": "https://raw.githubusercontent.com/Dialsoft/rxscout-releases/main/RXScout.exe",
+    "sha256": "f4b8e5819d448e4adea02a40a18429cc1e58a148544c806e7a73edb988a3706c"
+  },
+  "android": {
+    "url": "https://raw.githubusercontent.com/Dialsoft/rxscout-releases/main/RXScout.apk",
+    "sha256": "23880d88f07ca836d25e5f7549d698781c3d7a20b89dd5ebf5d36478ece3810f",
+    "versionCode": 1
+  }
+}
