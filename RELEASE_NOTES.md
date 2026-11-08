@@ -1,5 +1,10 @@
 # RX Scout release notes
 
+## 1.1.0 - November 7, 2026
+
+- **Interface colors**: pick from nine color schemes (Royal Purple, Ocean Blue, Teal, Forest Green, Crimson, Sunset Orange, Retro Amber, Hot Pink, Graphite) or any custom color, under Settings > Colors. The header, buttons, highlights and tabs change instantly, and every color has matching shades for both Light and Dark themes.
+- On Android the phone's status bar matches the chosen color.
+
 ## 1.0.0 - November 7, 2026
 
 First release. Windows (single portable EXE) and Android.

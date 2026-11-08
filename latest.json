@@ -1,19 +1,19 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "date": "2026-11-07",
-  "notes": "## 1.0.0 - November 7, 2026\n- First release for Windows and Android.\n- Main Zone, Zone 2, Sources, Sound, Speakers, System, Explorer, Hidden and Log tabs.\n- 20 undocumented RX-V677 settings (speaker levels/distances, input trims, display dimmer, max/power-on volume, HDMI CEC, ECO...) with read-back verification.\n- Hidden-command scanner, backup/restore with diff, snapshot export, traffic log, auto-update.",
+  "notes": "## 1.1.0 - November 7, 2026\n- Interface colors: choose from nine color schemes (Royal Purple, Ocean Blue, Teal, Forest Green, Crimson, Sunset Orange, Retro Amber, Hot Pink, Graphite) or any custom color under Settings > Colors. Changes apply instantly, in both Light and Dark themes.\n- Android: the status bar matches your chosen color.",
   "windows": {
     "url": "https://raw.githubusercontent.com/Dialsoft/rxscout-releases/main/RXScout.exe",
-    "sha256": "f4b8e5819d448e4adea02a40a18429cc1e58a148544c806e7a73edb988a3706c"
+    "sha256": "7c856ff2323faea876861034969f1609c21996dedf3dfc6cc1f84122393f4681"
   },
   "android": {
     "url": "https://raw.githubusercontent.com/Dialsoft/rxscout-releases/main/RXScout.apk",
-    "sha256": "23880d88f07ca836d25e5f7549d698781c3d7a20b89dd5ebf5d36478ece3810f",
-    "versionCode": 1
+    "sha256": "46c207580e0617c6577f9c894fc11f8429580a74095b99dbf80864f951f9522c",
+    "versionCode": 2
   },
   "published": "2026-11-07",
   "exe": "https://raw.githubusercontent.com/Dialsoft/rxscout-releases/main/RXScout.exe",
   "apk": "https://raw.githubusercontent.com/Dialsoft/rxscout-releases/main/RXScout.apk",
-  "size": 9888256,
-  "apk_size": 87289
+  "size": 9892864,
+  "apk_size": 89225
 }
