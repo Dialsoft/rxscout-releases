@@ -1,19 +1,19 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "date": "2026-11-08",
-  "notes": "## 1.2.0 - November 8, 2026\n- RX Scout now remembers your receiver by its MAC address and Yamaha System ID. If its IP address changes, RX Scout finds it on the network and reconnects by itself.\n- Alerts when it moves: pop-up, Windows/Android notification, and optional email through your own mail server (Settings > If the IP changes).\n- Find by MAC button (Home ribbon and System tab).\n- Windows: Keep running in the tray, so it keeps watching after you close the window.\n- System tab: Copy MAC button and DHCP reservation tip.",
+  "notes": "## 1.3.0 - November 8, 2026\n- New Unit tab: drawings of the receiver's front and back.\n- Front: a live copy of the front display (input, program, volume, indicator lights, at your dimmer level), and the front keys work - including a VOLUME knob you turn with the mouse wheel.\n- Back: every jack explained; the jack in use glows.\n- On-screen menu keys (ON SCREEN, OPTION, cursor, ENTER, RETURN) to work the receiver's setup menu on your TV.",
   "windows": {
     "url": "https://raw.githubusercontent.com/Dialsoft/rxscout-releases/main/RXScout.exe",
-    "sha256": "0b867ff2c61d0bbd7575701bcb68a5aee01b89c0a2c52d8123dc8ced6b11975f"
+    "sha256": "40af3d212a405ecbb70cf2a642c7460300f81fbab8d7f62382b295a9200b8f59"
   },
   "android": {
     "url": "https://raw.githubusercontent.com/Dialsoft/rxscout-releases/main/RXScout.apk",
-    "sha256": "3cbdeccba6c5f8eb415091452cd56b3cd3a37f56b382a6e13c8f340268ab6b21",
-    "versionCode": 5
+    "sha256": "579bdafaf1a6310af879b6400b07686a6bed97d2f7ea5af434f99111e6b5c0cc",
+    "versionCode": 6
   },
   "published": "2026-11-08",
   "exe": "https://raw.githubusercontent.com/Dialsoft/rxscout-releases/main/RXScout.exe",
   "apk": "https://raw.githubusercontent.com/Dialsoft/rxscout-releases/main/RXScout.apk",
-  "size": 10015744,
-  "apk_size": 99405
+  "size": 10051072,
+  "apk_size": 110577
 }

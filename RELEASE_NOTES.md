@@ -1,5 +1,14 @@
 # RX Scout release notes
 
+## 1.3.0 - November 8, 2026
+
+### New Unit tab: the receiver's front and back
+- **Front panel drawing with a live display.** The receiver can't send its display text over the network, so RX Scout rebuilds it: input name, sound program, volume bar and the indicator lights (ECO, HDMI OUT, ENHANCER, CINEMA DSP, STEREO/TUNED, SLEEP, ZONE2, blinking MUTE, ADAPTIVE DRC), at your display dimmer brightness. Volume changes flash on it like the real unit.
+- **The front keys work:** MAIN ZONE, ZONE 2, INPUT ◀▶, the four SCENE keys, PROGRAM ◀▶, STRAIGHT, PURE DIRECT, FM/AM, TUNING and PRESET. Turn the VOLUME knob with the mouse wheel, or click its left/right half. INFO cycles what the display shows.
+- **Rear panel drawing:** every jack and speaker terminal with a tooltip explaining it (and your renamed input names). The jack for the input you're listening to glows green.
+- **On-screen menu keys:** ON SCREEN, OPTION, DISPLAY, cursor ▲▼◀▶, ENTER, RETURN, TOP MENU, MENU, plus "Status on TV". The menu appears on your TV, so you can reach settings that only exist in the receiver's on-screen setup.
+- Drawings are made by RX Scout from the owner's manual part lists; positions are approximate.
+
 ## 1.2.0 - November 8, 2026
 
 ### Never lose the receiver when its IP address changes
