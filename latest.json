@@ -1,19 +1,19 @@
 {
-  "version": "1.1.2",
+  "version": "1.2.0",
   "date": "2026-11-08",
-  "notes": "## 1.1.2 - November 8, 2026\n- Tooltips no longer blink: they stay up the whole time the mouse is over a control.\n- The screen only redraws when something on the receiver actually changes, so open drop-down lists no longer close by themselves.",
+  "notes": "## 1.2.0 - November 8, 2026\n- RX Scout now remembers your receiver by its MAC address and Yamaha System ID. If its IP address changes, RX Scout finds it on the network and reconnects by itself.\n- Alerts when it moves: pop-up, Windows/Android notification, and optional email through your own mail server (Settings > If the IP changes).\n- Find by MAC button (Home ribbon and System tab).\n- Windows: Keep running in the tray, so it keeps watching after you close the window.\n- System tab: Copy MAC button and DHCP reservation tip.",
   "windows": {
     "url": "https://raw.githubusercontent.com/Dialsoft/rxscout-releases/main/RXScout.exe",
-    "sha256": "03ffa74e28b656ddf84533216f1be60bd6f52448e2f4d2d8c40deb173e930841"
+    "sha256": "0b867ff2c61d0bbd7575701bcb68a5aee01b89c0a2c52d8123dc8ced6b11975f"
   },
   "android": {
     "url": "https://raw.githubusercontent.com/Dialsoft/rxscout-releases/main/RXScout.apk",
-    "sha256": "48bf9ab955aff3e5409e723fd5a0ad12e873901d99ac44e2a266a6f56afc01fd",
-    "versionCode": 4
+    "sha256": "3cbdeccba6c5f8eb415091452cd56b3cd3a37f56b382a6e13c8f340268ab6b21",
+    "versionCode": 5
   },
   "published": "2026-11-08",
   "exe": "https://raw.githubusercontent.com/Dialsoft/rxscout-releases/main/RXScout.exe",
   "apk": "https://raw.githubusercontent.com/Dialsoft/rxscout-releases/main/RXScout.apk",
-  "size": 9900032,
-  "apk_size": 91233
+  "size": 10015744,
+  "apk_size": 99405
 }

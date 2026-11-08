@@ -1,5 +1,15 @@
 # RX Scout release notes
 
+## 1.2.0 - November 8, 2026
+
+### Never lose the receiver when its IP address changes
+- RX Scout now remembers each receiver by its **MAC address and Yamaha System ID**, which never change.
+- If the receiver stops answering, RX Scout searches the network for it, switches to the new address and reconnects on its own (Settings > If the IP changes > Find it again automatically).
+- **Find by MAC** button on the Home ribbon and the System tab searches right away.
+- **Alerts** when it moves: a pop-up in the app, a Windows/Android notification, and optionally an **email through your own mail server** (Settings > If the IP changes > Email me > setup…). The alert includes the old and new address and the MAC, so you can set a DHCP reservation. The email password is stored encrypted (Windows: protected by your Windows login).
+- **Keep running in the tray** (Windows): closing the window hides RX Scout next to the clock. It keeps checking the receiver every minute, so alerts still arrive. Click the icon to open it; right-click for Check now or Exit.
+- System tab: **Copy MAC** button and a tip on locking the address with a DHCP reservation.
+
 ## 1.1.2 - November 8, 2026
 
 - **Tooltips no longer blink.** They stay up the whole time the mouse is over a control. The live status refresh was redrawing the screen every 1.5 seconds and closing the tooltip each time.
