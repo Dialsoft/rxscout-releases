@@ -1,19 +1,19 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "date": "2026-11-07",
-  "notes": "## 1.1.0 - November 7, 2026\n- Interface colors: choose from nine color schemes (Royal Purple, Ocean Blue, Teal, Forest Green, Crimson, Sunset Orange, Retro Amber, Hot Pink, Graphite) or any custom color under Settings > Colors. Changes apply instantly, in both Light and Dark themes.\n- Android: the status bar matches your chosen color.",
+  "notes": "## 1.1.1 - November 7, 2026\n- New palette button at the top right: one click opens big, named color choices, a custom color and Light/Dark.\n- The user guide (Help > User guide) now explains how to change colors.\n\n## 1.1.0\n- Nine interface color schemes or any custom color, in Light and Dark. Android status bar matches.",
   "windows": {
     "url": "https://raw.githubusercontent.com/Dialsoft/rxscout-releases/main/RXScout.exe",
-    "sha256": "7c856ff2323faea876861034969f1609c21996dedf3dfc6cc1f84122393f4681"
+    "sha256": "dee94859853f152b2ce2ebedbb6bd2a6d3cff8d4ca75ae90f1d1cf953ca3b669"
   },
   "android": {
     "url": "https://raw.githubusercontent.com/Dialsoft/rxscout-releases/main/RXScout.apk",
-    "sha256": "46c207580e0617c6577f9c894fc11f8429580a74095b99dbf80864f951f9522c",
-    "versionCode": 2
+    "sha256": "4cb40b97c7f3ab77ec847210469e8f488c75f5ddca1a0e93dc4363ebedc71966",
+    "versionCode": 3
   },
   "published": "2026-11-07",
   "exe": "https://raw.githubusercontent.com/Dialsoft/rxscout-releases/main/RXScout.exe",
   "apk": "https://raw.githubusercontent.com/Dialsoft/rxscout-releases/main/RXScout.apk",
-  "size": 9892864,
-  "apk_size": 89225
+  "size": 9896960,
+  "apk_size": 90173
 }

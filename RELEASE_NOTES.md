@@ -1,5 +1,10 @@
 # RX Scout release notes
 
+## 1.1.1 - November 7, 2026
+
+- New **palette button** at the top right of the window: one click opens a color picker with big, named color choices, a custom color and Light/Dark, so changing the look no longer means hunting in the Settings ribbon.
+- User guide now explains how to change colors.
+
 ## 1.1.0 - November 7, 2026
 
 - **Interface colors**: pick from nine color schemes (Royal Purple, Ocean Blue, Teal, Forest Green, Crimson, Sunset Orange, Retro Amber, Hot Pink, Graphite) or any custom color, under Settings > Colors. The header, buttons, highlights and tabs change instantly, and every color has matching shades for both Light and Dark themes.
