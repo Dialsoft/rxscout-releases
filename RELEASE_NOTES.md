@@ -1,5 +1,11 @@
 # RX Scout release notes
 
+## 1.1.2 - November 8, 2026
+
+- **Tooltips no longer blink.** They stay up the whole time the mouse is over a control. The live status refresh was redrawing the screen every 1.5 seconds and closing the tooltip each time.
+- The screen now only redraws when something on the receiver actually changes. That also stops an open drop-down list (like the sound program list) from closing by itself.
+- Ribbon on/off highlights and the status bar now update in place instead of being rebuilt.
+
 ## 1.1.1 - November 7, 2026
 
 - New **palette button** at the top right of the window: one click opens a color picker with big, named color choices, a custom color and Light/Dark, so changing the look no longer means hunting in the Settings ribbon.

@@ -4,8 +4,8 @@ Windows and Android controller for Yamaha RX-V / AVENTAGE network receivers (201
 
 | Download | Version | SHA-256 |
 | --- | --- | --- |
-| [RXScout.exe](https://github.com/Dialsoft/rxscout-releases/raw/main/RXScout.exe) (Windows 10/11, portable) | 1.1.1 | `dee94859853f152b2ce2ebedbb6bd2a6d3cff8d4ca75ae90f1d1cf953ca3b669` |
-| [RXScout.apk](https://github.com/Dialsoft/rxscout-releases/raw/main/RXScout.apk) (Android 7+) | 1.1.1 | `4cb40b97c7f3ab77ec847210469e8f488c75f5ddca1a0e93dc4363ebedc71966` |
+| [RXScout.exe](https://github.com/Dialsoft/rxscout-releases/raw/main/RXScout.exe) (Windows 10/11, portable) | 1.1.2 | `03ffa74e28b656ddf84533216f1be60bd6f52448e2f4d2d8c40deb173e930841` |
+| [RXScout.apk](https://github.com/Dialsoft/rxscout-releases/raw/main/RXScout.apk) (Android 7+) | 1.1.2 | `48bf9ab955aff3e5409e723fd5a0ad12e873901d99ac44e2a266a6f56afc01fd` |
 
 RX Scout checks this repository's `latest.json` and updates itself (Windows) or offers the new APK (Android).
 

@@ -1,19 +1,19 @@
 {
-  "version": "1.1.1",
-  "date": "2026-11-07",
-  "notes": "## 1.1.1 - November 7, 2026\n- New palette button at the top right: one click opens big, named color choices, a custom color and Light/Dark.\n- The user guide (Help > User guide) now explains how to change colors.\n\n## 1.1.0\n- Nine interface color schemes or any custom color, in Light and Dark. Android status bar matches.",
+  "version": "1.1.2",
+  "date": "2026-11-08",
+  "notes": "## 1.1.2 - November 8, 2026\n- Tooltips no longer blink: they stay up the whole time the mouse is over a control.\n- The screen only redraws when something on the receiver actually changes, so open drop-down lists no longer close by themselves.",
   "windows": {
     "url": "https://raw.githubusercontent.com/Dialsoft/rxscout-releases/main/RXScout.exe",
-    "sha256": "dee94859853f152b2ce2ebedbb6bd2a6d3cff8d4ca75ae90f1d1cf953ca3b669"
+    "sha256": "03ffa74e28b656ddf84533216f1be60bd6f52448e2f4d2d8c40deb173e930841"
   },
   "android": {
     "url": "https://raw.githubusercontent.com/Dialsoft/rxscout-releases/main/RXScout.apk",
-    "sha256": "4cb40b97c7f3ab77ec847210469e8f488c75f5ddca1a0e93dc4363ebedc71966",
-    "versionCode": 3
+    "sha256": "48bf9ab955aff3e5409e723fd5a0ad12e873901d99ac44e2a266a6f56afc01fd",
+    "versionCode": 4
   },
-  "published": "2026-11-07",
+  "published": "2026-11-08",
   "exe": "https://raw.githubusercontent.com/Dialsoft/rxscout-releases/main/RXScout.exe",
   "apk": "https://raw.githubusercontent.com/Dialsoft/rxscout-releases/main/RXScout.apk",
-  "size": 9896960,
-  "apk_size": 90173
+  "size": 9900032,
+  "apk_size": 91233
 }
