@@ -10,5 +10,10 @@
     "url": "https://raw.githubusercontent.com/Dialsoft/rxscout-releases/main/RXScout.apk",
     "sha256": "23880d88f07ca836d25e5f7549d698781c3d7a20b89dd5ebf5d36478ece3810f",
     "versionCode": 1
-  }
+  },
+  "published": "2026-11-07",
+  "exe": "https://raw.githubusercontent.com/Dialsoft/rxscout-releases/main/RXScout.exe",
+  "apk": "https://raw.githubusercontent.com/Dialsoft/rxscout-releases/main/RXScout.apk",
+  "size": 9888256,
+  "apk_size": 87289
 }
